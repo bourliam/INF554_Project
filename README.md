@@ -1,6 +1,6 @@
 # INF554_Project
 
-##Team: Lesbogoss (nom à trouver)
+##Team: Radee
 
 ##Comp1: Porto Seguro’s Safe Driver Prediction
 Predict if drivers will file an insurance claim.
